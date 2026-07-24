@@ -41,14 +41,14 @@ Founder + Product Manager
 
 ### User Experience & Interface Concepts
 
-FF883FD3-3225-47F9-BFA7-065D8F061F7B.jpeg 
+
 
 
 ---
 
 ## Prototype Animations
 
-<img width="1074" height="1602" alt="EEB6DB31-D77D-4953-BB2D-50DB20772D67_1_102_o" src="https://github.com/user-attachments/assets/2fbc638c-3337-4139-b33f-54a8d9c37d18" />
+
 
 Prototype demonstrations showcasing app interactions, navigation, and user experience concepts.
 
