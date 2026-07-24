@@ -4,7 +4,10 @@ Mental health platform + mobile app in development.
 
 HeySpiral is a mental health platform and mobile app in development focused on creating supportive communities, personalized experiences, and modern mental health resources.
 
-HeySpiral Preview
+HeySpiral Platform Preview
+<img width="1170" height="1642" alt="CDF533BB-519D-42E3-8040-3291C72FFEC5" src="https://github.com/user-attachments/assets/1707d46c-47cb-499d-972e-93be1b6fec22" />
+<img width="1170" height="1049" alt="189C6532-9CC7-4639-9551-B2CD654F971F" src="https://github.com/user-attachments/assets/79d1d839-ed7e-4c0e-b085-c887d42ac1a4" />
+
 ---
 
 ## Overview
@@ -41,6 +44,9 @@ Founder + Product Manager
 
 ### User Experience & Interface Concepts
 
+<img width="1375" height="1072" alt="FF883FD3-3225-47F9-BFA7-065D8F061F7B" src="https://github.com/user-attachments/assets/88e82b1d-1c2f-4744-ab7b-d6c42f11d869" />
+<img width="1111" height="2087" alt="403D3746-D7F2-4A39-BF26-2C8D48DFD57F" src="https://github.com/user-attachments/assets/903155b7-32ce-47f2-8550-e07e43c1263f" />
+<img width="1640" height="2360" alt="2D20AB8D-6ADC-4BA8-801C-A3217E3E01CA" src="https://github.com/user-attachments/assets/4e3fa984-a6bc-4d97-8614-e6bcc51992cb" />
 
 
 
@@ -48,7 +54,10 @@ Founder + Product Manager
 
 ## Prototype Animations
 
-IMG_2398.gif 
+1 <img width="1074" height="1602" alt="EEB6DB31-D77D-4953-BB2D-50DB20772D67_1_102_o" src="https://github.com/user-attachments/assets/854f0102-436c-402f-9317-64a0a65077e8" />
+<img width="739" height="1064" alt="C7E2BB79-64E5-4179-964B-8107E8015678_1_105_c" src="https://github.com/user-attachments/assets/6fdf3afe-c9a1-45ff-a1f9-f439518de78f" />
+<img width="739" height="1064" alt="B28CC8C4-2551-4687-9AEA-CDD42CB7193F_1_105_c" src="https://github.com/user-attachments/assets/9fc332a6-f255-4063-b0ff-cad5eeca91bb" />
+
 
 Prototype demonstrations showcasing app interactions, navigation, and user experience concepts.
 
