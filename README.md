@@ -5,7 +5,6 @@ Mental health platform + mobile app in development.
 HeySpiral is a mental health platform and mobile app in development focused on creating supportive communities, personalized experiences, and modern mental health resources.
 
 HeySpiral Preview
-IMG_2398.gif
 ---
 
 ## Overview
