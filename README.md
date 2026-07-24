@@ -53,13 +53,11 @@ Founder + Product Manager
 ---
 
 ## Prototype Animations
-
-1 <img width="1074" height="1602" alt="EEB6DB31-D77D-4953-BB2D-50DB20772D67_1_102_o" src="https://github.com/user-attachments/assets/854f0102-436c-402f-9317-64a0a65077e8" />
-<img width="739" height="1064" alt="C7E2BB79-64E5-4179-964B-8107E8015678_1_105_c" src="https://github.com/user-attachments/assets/6fdf3afe-c9a1-45ff-a1f9-f439518de78f" />
-<img width="739" height="1064" alt="B28CC8C4-2551-4687-9AEA-CDD42CB7193F_1_105_c" src="https://github.com/user-attachments/assets/9fc332a6-f255-4063-b0ff-cad5eeca91bb" />
-
-
 Prototype demonstrations showcasing app interactions, navigation, and user experience concepts.
+1
+2
+3
+
 
 ---
 
