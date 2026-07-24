@@ -48,7 +48,7 @@ Founder + Product Manager
 
 ## Prototype Animations
 
-
+IMG_2398.gif 
 
 Prototype demonstrations showcasing app interactions, navigation, and user experience concepts.
 
