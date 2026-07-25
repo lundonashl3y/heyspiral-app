@@ -1,60 +1,63 @@
-# heyspiral-product-case-study
-Mental health platform + mobile app in development.
-### Founder + Product Manager
-
-HeySpiral is a current mental health platform and mobile app in development focused on creating supportive communities, personalized experiences, and modern mental health resources.
-
-
----
+# App & Product Management Portfolio
 
 ## Overview
 
-HeySpiral is a platform built around the idea that mental health support should feel more personal, accessible, and community-driven.
+This repository showcases my experience exploring product development, user experience design, audience growth, and project management.
 
-As the Founder and Product Manager, I am leading HeySpiral from concept to development by shaping the product vision, designing user experiences, building the brand identity, and planning the roadmap for future development.
-## Product Vision
-
-HeySpiral aims to create a space where users can:
-
-- Find communities based on shared experiences
-- Access modernized mental health resources
-- Build healthy habits through personalized experiences
-- Feel connected and supported
+My work focuses on understanding users, identifying opportunities, organizing product ideas, and creating experiences that connect with specific communities.
 
 ---
 
-## Role & Responsibilities
+# Product Background
 
-Founder + Product Manager
+## Digital Content & Community Growth
 
-- Defined product vision and goals
-- Planned MVP features and product roadmap
-- Designed user flows and app experiences
-- Created wireframes and interface concepts
-- Developed brand identity and visual direction
-- Managed product strategy from concept to execution
-- Researched user needs and potential community features
+During Summer 2025, I grew a digital audience through content focused on contemporary social topics, including:
 
----
+- Mental health awareness
+- Substance abuse conversations
+- Bipolar disorder awareness
+- Dating and relationships
+- Love and interpersonal connections
+- Personal growth and self-reflection
 
-## App Design
-
-### User Experience & Interface Concepts
-
-<img width="1375" height="1072" alt="FF883FD3-3225-47F9-BFA7-065D8F061F7B" src="https://github.com/user-attachments/assets/88e82b1d-1c2f-4744-ab7b-d6c42f11d869" />
-<img width="1111" height="2087" alt="403D3746-D7F2-4A39-BF26-2C8D48DFD57F" src="https://github.com/user-attachments/assets/903155b7-32ce-47f2-8550-e07e43c1263f" />
-<img width="1640" height="2360" alt="2D20AB8D-6ADC-4BA8-801C-A3217E3E01CA" src="https://github.com/user-attachments/assets/4e3fa984-a6bc-4d97-8614-e6bcc51992cb" />
-
-
+Through creating content around topics that resonated with audiences, I gained experience understanding user interests, identifying engagement patterns, and developing content strategies based on community response.
 
 ---
 
+# Product Management Experience
+
+## Skills Demonstrated
+
+### User Research
+
+- Identifying audience interests and recurring themes.
+- Understanding user needs through engagement and feedback.
+- Analyzing what content creates meaningful interactions.
+
+### Product Thinking
+
+- Translating audience needs into product ideas.
+- Exploring user-focused solutions.
+- Creating experiences designed around community needs.
+
+### Project Organization
+
+- Defining goals and priorities.
+- Documenting product ideas and workflows.
+- Managing creative projects from concept through execution.
+
 ---
 
-## Tools
+
+# Tools
 
 - Figma
-- Canva
-- Procreate
-- Notion
 - GitHub
+- Unity
+- Procreate
+- Product Documentation
+- User Experience Research
+- Project Planning
+
+---
