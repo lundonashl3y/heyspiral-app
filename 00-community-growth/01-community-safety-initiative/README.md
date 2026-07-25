@@ -91,9 +91,7 @@ Potential opportunities include:
 
 ---
 
-# Documentation
-<img width="936" height="839" alt="189C6532-9CC7-4639-9551-B2CD654F971F_1_105_c" src="https://github.com/user-attachments/assets/3cc9b65c-a313-48f8-b49c-38d61f8a89b1" />
-<img width="1170" height="1443" alt="61B0DB2F-34ED-48D3-AA1A-8F496A83F0E8" src="https://github.com/user-attachments/assets/c8006fcb-05aa-4964-9980-fc0f30834817" />
-<img width="1170" height="1494" alt="CDE89475-33E1-43EB-803E-F33304A51F8F" src="https://github.com/user-attachments/assets/f42ce995-d267-4b7b-bed3-773870c6a126" />
-<img width="1170" height="1229" alt="C53B583B-1FF0-4587-89DB-B6D97381453B" src="https://github.com/user-attachments/assets/d2e25545-01ca-4a01-b216-fee81e9c3c81" />
+# Documentation via a weekly post called, "Mental Health Check In" where users talk to Spiral.
+<img width="1920" height="1080" alt="48872FC2-3A16-46E8-B3D0-FAEA80FCA4D8" src="https://github.com/user-attachments/assets/4b348b20-f0d1-4bb8-9a98-9c6b496d5837" />
+<img width="1889" height="728" alt="7BB26739-E7D0-4181-A40A-631D9678A943_1_201_a" src="https://github.com/user-attachments/assets/26e2d2b9-9360-4333-b8ed-ef461bd78876" />
 
