@@ -2,6 +2,9 @@
 
 ## Overview for HeySpiral
 
+<img width="739" height="1064" alt="C7E2BB79-64E5-4179-964B-8107E8015678_1_105_c" src="https://github.com/user-attachments/assets/49f574e1-8d3c-4b86-bfed-7c13d7e98272" />
+
+
 This repository showcases my experience exploring product development, user experience design, audience growth, and project management.
 
 My work focuses on understanding users, identifying opportunities, organizing product ideas, and creating experiences that connect with specific communities.
