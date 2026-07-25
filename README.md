@@ -1,6 +1,6 @@
-# App & Product Management Portfolio
+# HeySpiral App & Platform Portfolio
 
-## Overview
+## Overview for HeySpiral
 
 This repository showcases my experience exploring product development, user experience design, audience growth, and project management.
 
@@ -54,7 +54,6 @@ Through creating content around topics that resonated with audiences, I gained e
 
 - Figma
 - GitHub
-- Unity
 - Procreate
 - Product Documentation
 - User Experience Research
