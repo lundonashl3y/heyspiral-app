@@ -53,13 +53,6 @@ Founder + Product Manager
 
 ---
 
-## Prototype Animations
-Prototype demonstrations showcasing app interactions, navigation, and user experience concepts.
-1
-2
-3
-
-
 ---
 
 ## Tools
